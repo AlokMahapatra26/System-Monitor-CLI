@@ -23,7 +23,7 @@ npm install chalk diskusage
 ## Usage
 Run the script using:
 ```sh
-node monitor.js
+node index.js
 ```
 
 ## Code Explanation
