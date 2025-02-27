@@ -1,0 +1,17 @@
+{
+  "name": "alok-system-monitor-cli",
+  "version": "1.0.0",
+  "description": "A simple CLI tool to monitor system resources",
+  "main": "index.js",
+  "bin": {
+    "sysmon": "index.js"
+  },
+  "dependencies": {
+    "alok-system-monitor-cli": "^1.0.0",
+    "chalk": "^5.4.1",
+    "diskusage": "^1.2.0"
+  },
+  "type": "module",
+  "author": "Alok Mahapatra",
+  "license": "MIT"
+}
