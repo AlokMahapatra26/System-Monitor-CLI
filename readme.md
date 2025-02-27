@@ -17,8 +17,9 @@ Ensure you have [Node.js](https://nodejs.org/) installed.
 ### Install Dependencies
 Run the following command to install required packages:
 ```sh
-npm install chalk diskusage
 cd System-Monitor-CLI
+npm install chalk diskusage
+
 ```
 
 ## Usage
